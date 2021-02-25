@@ -1,0 +1,36 @@
+{
+  "name": "test2-a120220ms256256-v4-0210",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "0.21.1",
+    "bootstrap": "4.6.0",
+    "jwt": "0.2.0",
+    "jwt-decode": "3.1.2",
+    "reac": "0.0.0",
+    "react": "17.0.0",
+    "react-context": "0.0.3",
+    "react-dom": "17.0.1",
+    "react-route": "1.0.3",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "3.4.3",
+    "styled-components": "5.2.1"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

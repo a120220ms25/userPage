@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+link:hover {
+  text-decoration: none;
+}
